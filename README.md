@@ -1,3 +1,4 @@
+![photo_2022-01-29_07-30-44 - Copy](https://user-images.githubusercontent.com/97619403/152691220-42bb6638-485f-492a-9746-2fd5a71f67e3.jpg)
 <h1 align= center><b>💥💫 DIYA-MUSICAL-BOT 💥💫</b></h1>
 <h3 align = center> Multi-Assistant | Video Calls | Voice Calls | Heroku Supported</h3>
 
